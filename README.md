@@ -26,7 +26,7 @@ perncarian global SOAL NO. 1 - SOAL NO. 9
 
 ## Instalasi
 
-1. database kntto.sql
+1. database knitto.sql
 2. .env
 3. npm i
 4. npm start
